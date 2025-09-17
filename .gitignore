@@ -1,0 +1,12 @@
+# Secrets
+client_secret.json
+token.json
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
